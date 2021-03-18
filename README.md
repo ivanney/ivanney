@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open Source
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ERP & CRM
-- 📫 How to reach me: http://lnkd.to/ipinillad
+- 📫 How to reach me: http://lnkd.in/ipinillad
 
 <!---
 ivanney/ivanney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
