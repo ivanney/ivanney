@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivanney
 - 👀 I’m interested in Open Source
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ERP & CRM
+- 💞️ I’m looking to collaborate on Cybersecurity
 - 📫 How to reach me: http://lnkd.in/ipinillad
 
 <!---
