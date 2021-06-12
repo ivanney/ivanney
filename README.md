@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivanney
 - 👀 I’m interested in Open Source
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on JS
+- 💞️ I’m looking to collaborate on CCTV
 - 📫 How to reach me: https://www.linkedin.com/in/ipinillad
 
 <!---
