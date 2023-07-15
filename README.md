@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Iván</a> 👋
+Hi there, I'm <a href="https://twitter.com/villamarinera/" target="_blank" rel="noreferrer">Iván</a> 👋
 </h3>
 
 <h2 align="center">
